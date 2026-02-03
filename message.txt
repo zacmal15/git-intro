@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Message from president
-=======
-Message from president
->>>>>> feature-greeting
+Change from feature branch

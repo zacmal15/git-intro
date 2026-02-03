@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Message from president
+=======
+Message from president
+>>>>>> feature-greeting
